@@ -1,1 +1,4 @@
-Fridge 200 24
+Ceiling fan,200,10
+LED Bulb,10,10
+Fridge,200,24
+AC Unit,1500,8
